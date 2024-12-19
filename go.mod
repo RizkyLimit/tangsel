@@ -3,6 +3,7 @@ module tangsel
 go 1.23.4
 
 require (
+	github.com/cloudflare/circl v1.5.0
 	github.com/ethereum/go-ethereum v1.14.12
 	github.com/stretchr/testify v1.10.0
 	go.dedis.ch/kyber/v4 v4.0.0-pre2
